@@ -1,0 +1,767 @@
+[
+	{
+		"twardosc": "twarde",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "kino domowe",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "czujnik dymu",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "telewizor",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "laptop",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "ekspres do kawy",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "chleb",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "ciekly",
+		"nazwa": "0.5l wody",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "ciastka",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "ciekly",
+		"nazwa": "sok",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "wafelki",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "srednie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "ziemia",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "sadzonki",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "nasiona",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "nawoz",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "nawoz",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "olowek",
+		"typ": "Art. Pap."
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "dlugopis",
+		"typ": "Art. Pap."
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "kredka",
+		"typ": "Art. Pap."
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "olowek",
+		"typ": "Art. Pap."
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "kredka",
+		"typ": "Art. Pap."
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "koszulka",
+		"typ": "odziez"
+	},
+{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "spodnie",
+		"typ": "odziez"
+	},
+{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "bluza",
+		"typ": "odziez"
+	},
+{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "kalesony",
+		"typ": "odziez"
+	},
+{
+		"twardosc": "miekkie",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "skarpetki",
+		"typ": "odziez"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekly",
+		"nazwa": "bidon",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "ciekly",
+		"nazwa": "Nawoz",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "Antena Sat.",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekly",
+		"nazwa": "Nawoz",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "Chleb",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "twarde",
+		"waga": "lekkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "ciekly",
+		"nazwa": "Woda",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "dysk twardy",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekly",
+		"nazwa": "ocieplacz do rak",
+		"typ": "odziez"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "Owoc",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "ciekly",
+		"nazwa": "Arbuz",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "Arbuz",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekly",
+		"nazwa": "woda",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "woda",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "ciekly",
+		"nazwa": "ubrania",
+		"typ": "odziez"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "spodnie",
+		"typ": "odziez"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekly",
+		"nazwa": "sok",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "kask",
+		"typ": "odziez"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "ciekly",
+		"nazwa": "buklak",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "plyta",
+		"typ": "RTV"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekly",
+		"nazwa": "spray do kwiatow",
+		"typ": "Ogrodnictwo"
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "Klej",
+		"typ": "Art. Pap."
+	},
+	{
+		"twardosc": "miekkie",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "ciekly",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "okragly",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "lekkie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "okragly",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "srednie",
+		"wielkosc": "srednie",
+		"ksztalt": "brak",
+		"skupienie": "ciekle",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "prostokatny",
+		"skupienie": "ciekly",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "kolisty",
+		"skupienie": "ciekly",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "stale",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	},
+	{
+		"twardosc": "kruche",
+		"waga": "ciezkie",
+		"wielkosc": "male",
+		"ksztalt": "brak",
+		"skupienie": "ciekly",
+		"nazwa": "",
+		"typ": "Zywnosc"
+	}
+]
