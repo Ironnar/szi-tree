@@ -324,22 +324,23 @@ class GameBoard(QTableWidget):
                 sections = []
                 for el in self.cart.palette:
                     type = self.tree.predict([el.hardness, el.weight, el.size, el.shape, el.condensation, el.przeznaczenie])
+                    
                     if type == 'RTV':
-                        sections.append(self.sections[0])
+                        typeSecition = self.sections[0]
                     elif type == 'Zywnosc':
-                        sections.append(self.sections[1])
+                        typeSecition = self.sections[1]
                     elif type == 'Ogrodnictwo':
-                        sections.append(self.sections[2])
+                        typeSecition = self.sections[2]
                     elif type == 'Art. Pap.':
-                        sections.append(self.sections[3]))
+                        typeSecition = self.sections[3]
                     elif type == 'odziez':
-                        sections.append(self.sections[4])
+                        typeSecition = self.sections[4]
                     elif type == 'Leki':
-                        sections.append(self.sections[5])
+                        typeSecition = self.sections[5]
                     else:
-                        sections.append(self.sections[6])
-                for el in sections:
-                    print(el)
+                        typeSecition = self.sections[6]
+                    if typeSecition not in sections:
+                        sections.append(typeSecition)
                 for section in sections:
                     self.sections_to_visit.append(section.pos())
 
