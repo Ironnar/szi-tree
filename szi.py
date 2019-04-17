@@ -13,7 +13,6 @@ class TeachingMethod(enum.Enum):
     DECISION_TREE = 1,
     NEURAL_NETWORK = 2
 
-
 class SziWindow(QWidget):
 
     def __init__(self):
