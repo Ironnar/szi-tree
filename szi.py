@@ -62,7 +62,6 @@ class SziWindow(QWidget):
     def use_teaching_method(self, method: TeachingMethod, method_name: str):
         BoardWindow(method)
 
-
 if __name__ == '__main__':
     app = QApplication(sys.argv)
     win = SziWindow()
