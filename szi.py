@@ -8,7 +8,6 @@ from PyQt5.QtWidgets import QWidget, QApplication, QVBoxLayout, QPushButton, \
 
 from boardwindow import BoardWindow
 
-
 class TeachingMethod(enum.Enum):
     DECISION_TREE = 1,
     NEURAL_NETWORK = 2
